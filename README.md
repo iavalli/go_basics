@@ -1,1 +1,1 @@
-# go_basics
+Learning Go from scratch 
