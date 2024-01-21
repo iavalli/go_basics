@@ -176,6 +176,9 @@ func IsValid(id int, text string) bool {
   return id >= 1 && text != ""
 }
 
+// Strings
+
+var s string = "hello"
 
 
 
@@ -183,3 +186,4 @@ func IsValid(id int, text string) bool {
 
 
 
+ 
